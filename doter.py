@@ -1,4 +1,5 @@
 def bmi_calculator(wheight, height):
+    '''коментраии'''
     return wheight / height**2
     
 weight= float(input("введите свой вес в кг: "))
