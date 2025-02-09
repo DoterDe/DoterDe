@@ -14,8 +14,8 @@
 - 🌐 **GitHub:** [github.com/DoterDe](https://github.com/DoterDe)  
 
 ## 🌟 Проекты  
-- **[Проект 1](https://github.com/DoterDe/Examen_cpp.git)** 
-- **[Проект 2](https://github.com/DoterDe/dj_final_exam.git)** 
+- **[C++](https://github.com/DoterDe/Examen_cpp.git)** 
+- **[Django](https://github.com/DoterDe/dj_final_exam.git)** 
 
 ## 📈 Статистика GitHub  
 ![Абдуррохман Коблан GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoterDe&show_icons=true&theme=radical)  
